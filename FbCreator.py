@@ -9,8 +9,8 @@ from faker import Faker
 
 print(f"""
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓           
-> › Github :- @jatintiwari0 
-> › By      :- JATIN TIWARI
+> › Github :- @krisanto35281 
+> › By      :- Krisanto Kirido
 > › Proxy Support Added by @coopers-lab
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                """)
 print('\x1b[38;5;208m⇼'*60)
@@ -79,7 +79,8 @@ ID : {id}
 PASSWORD : {password}
 NAME : {first_name} {last_name}
 BIRTHDAY : {birthday} 
-GENDER : {gender}
+GENDER: {gender}
+CODE: {code}
 -----------GENERATED-----------
 Token : {token}
 -----------GENERATED-----------''')
